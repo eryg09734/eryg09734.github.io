@@ -107,6 +107,6 @@ deploy:
   branch: gh-page
   token: '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'
   name: eryg09734
-  email: s97eyrg980s7eryg09734uyh0@proton.me
+  email: eryg09734
   ignore_hidden: false # default is true
   ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
