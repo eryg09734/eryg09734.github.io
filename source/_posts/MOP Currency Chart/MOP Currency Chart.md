@@ -13,7 +13,7 @@ tags:
         <th rowspan="2">
 <b>Bank of China </br><b>(Macau) Limited</br>
 <b>中國銀行澳門</br>
-<b><img src="BOC(MO).png" data-file-width="449" data-file-height="222" width="116" height="74"></br>
+<b><img src="./MOP Currency Chart/BOC(MO).png" data-file-width="449" data-file-height="222" width="116" height="74"></br>
        </th>
         <th>10MOP</th>
         <th>20MOP</th>
