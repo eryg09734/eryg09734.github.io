@@ -1,3 +1,8 @@
+---
+title: my first blog
+date: 2023-06-17 00:26:25
+tags:
+---
 # MOP Currency Chart
 
 `MO`  `Macau S.A.R` `澳門特別行政區`
