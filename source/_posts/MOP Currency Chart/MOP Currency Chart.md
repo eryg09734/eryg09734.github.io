@@ -4,7 +4,7 @@ date: 2023-06-17 00:26:25
 tags:
 ---
 `Areas of circulation:`
- `MO`  `Macau S.A.R` `澳門特別行政區``🇲🇴` `MOP$`
+ `MO`  `Macau S.A.R` `澳門特別行政區``🇲🇴` 
 
 
 
@@ -13,24 +13,11 @@ tags:
 
 # Current：
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-pcvp{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-tf2e{text-align:left;vertical-align:top}
-</style>
-<table style="undefined;table-layout: fixed; width: 199px">
+
+<table style="undefined;table-layout: fixed;">
 <colgroup>
-<col style="width: 90.333333px">
-<col style="width: 400.333333px">
-<col style="width: 400.333333px">
-<col style="width: 100.333333px">
-<col style="width: 400.333333px">
+<col style="width: 85.333333pX">
+
 </colgroup>
 <thead>
   <tr>
