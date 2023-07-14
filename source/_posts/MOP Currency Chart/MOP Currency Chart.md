@@ -22,7 +22,7 @@ tags:
 <thead>
   <tr>
   <th>Bank Of China</th>
-  <th><img src="BOC(MO).PNG" alt="Image" width="300" height="100"></th>
+  <th><img src="BOC(MO).png" alt="Image" width="300" height="100"></th>
   </tr>
 </thead>
 <tbody>
@@ -37,7 +37,7 @@ tags:
   </tr>
   <tr>
     <th>Banco Nacional Ultramarino</th>
-    <th><img src="BNU.PNG" alt="Image" width="300" height="100"></th>
+    <th><img src="BNU.png" alt="Image" width="300" height="100"></th>
   </tr>
   <tr>
     <td><img src="https://www.tablesgenerator.com/a" alt="Image" width="125" height="68"></td>
